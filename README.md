@@ -1,4 +1,7 @@
 # NSGA2_MATLAB
+
+![](https://img.shields.io/badge/Status-Done-brightgreen.svg)
+
  NSGA2 MATLAB Code for https://www.omegaxyz.com/2018/01/22/new_nsga2/
  
 # parameter
